@@ -1,5 +1,9 @@
 /* tslint:disable */
-export function run_alert(arg0: string): void;
-
+/* eslint-disable */
+/**
+* @param {string} item
+*/
+export function run_alert(item: string): void;
+/**
+*/
 export function create_stuff(): void;
-
